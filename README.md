@@ -5,7 +5,7 @@ currently a student pursuing a degree in Information Technology at
 Mumbai University.</h3>
 <br>
 # 💫 About Me:
-i there! My name is Amit gupta , and I'm currently a Second-year Information Technology student with a passion for development. I have always been interested in technology and how it can be used to make people's lives easier and solve real world problems.
+Hello! My name is Amit gupta , and I'm currently a Second-year Information Technology student with a passion for development. I have always been interested in technology and how it can be used to make people's lives easier and solve real world problems.
 <br>
 <br>
 # 📊 GitHub Stats:
